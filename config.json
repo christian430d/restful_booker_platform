@@ -1,0 +1,9 @@
+{
+  "PROD":{
+    "HomeURL":"https://automationintesting.online/#/admin" 
+
+  },
+  "LOCAL":{
+    "HomeURL":"http://localhost:8080/#/admin" 
+  }
+}
