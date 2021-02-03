@@ -1,7 +1,7 @@
 # Restful Booker Platform Automated Testing
 
 Restful Booker Platform Automation project for regression testing using [Testcafe](https://devexpress.github.io/testcafe/documentation/getting-started/).
-This project verifies and validates Suplier, Distributor and Retailer Sign Up Flow.
+This project verifies and validates Admin Login, Multiple Room Creation and deletion FLows.
 
 ## Getting Started
 
